@@ -73,7 +73,7 @@
         <camel.version>2.16.3</camel.version>
         <zookeeper.version>3.4.6</zookeeper.version>
         <kafka.version>0.8.2.2</kafka.version>
-        <spark.version>1.5.2</spark.version>
+        <spark.version>2.2.0</spark.version>
         <agrona.version>0.5.4</agrona.version>
         <mapdb.version>3.0.2</mapdb.version>
         <playframework.version>2.4.6</playframework.version>    <!-- Play Framework 2.5 dropped Scala 2.10 support - use 2.4 for Spark compatibility w/ Scala 2.10 -->
