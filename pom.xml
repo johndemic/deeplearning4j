@@ -71,7 +71,7 @@
         <failIfNoTests>false</failIfNoTests>
         <hadoop.version>1.0.4</hadoop.version>
         <camel.version>2.16.3</camel.version>
-        <zookeeper.version>3.4.6</zookeeper.version>
+        <zookeeper.version>3.5.5</zookeeper.version>
         <kafka.version>0.8.2.2</kafka.version>
         <spark.version>1.5.2</spark.version>
         <agrona.version>0.5.4</agrona.version>
