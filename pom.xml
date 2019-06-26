@@ -70,7 +70,7 @@
         <google.protobuf.version>2.6.1</google.protobuf.version>
         <failIfNoTests>false</failIfNoTests>
         <hadoop.version>1.0.4</hadoop.version>
-        <camel.version>2.16.3</camel.version>
+        <camel.version>2.17.0</camel.version>
         <zookeeper.version>3.4.6</zookeeper.version>
         <kafka.version>0.8.2.2</kafka.version>
         <spark.version>1.5.2</spark.version>
